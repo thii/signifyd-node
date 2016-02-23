@@ -1,0 +1,31 @@
+{
+  "name": "signifyd",
+  "version": "0.1.0",
+  "description": "Signifyd API - Node.js Client",
+  "license": "MIT",
+  "repository": "thii/signifyd-node",
+  "author": {
+    "name": "Thi Doan",
+    "email": "t@thi.im",
+    "url": "thi.im"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "xo && ava"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    ""
+  ],
+  "dependencies": {
+    "got": "^5.4.1"
+  },
+  "devDependencies": {
+    "ava": "^0.11.0",
+    "xo": "^0.12.1"
+  }
+}
