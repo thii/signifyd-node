@@ -1,4 +1,4 @@
-# signifyd [![Build Status](https://travis-ci.org/thii/signifyd.svg?branch=master)](https://travis-ci.org/thii/signifyd)
+# signifyd
 
 > Node.js Client for Signifyd API
 
