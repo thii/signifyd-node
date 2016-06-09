@@ -13,6 +13,7 @@
     "node": ">=0.10.0"
   },
   "scripts": {
+    "prepublish": "node_modules/coffee-script/bin/coffee -co lib index.coffee",
     "test": "xo && ava"
   },
   "files": [
